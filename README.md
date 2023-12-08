@@ -1,4 +1,4 @@
-Express-API Mini Project
+Javascript Express-API Mini Project
 
 - Express
 - PostgresSQL
